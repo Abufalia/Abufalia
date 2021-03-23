@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abufalia
 - 👀 I’m interested in ... arquitectura y diseño (Analisis) 
 - 🌱 I’m currently learning ... Juegos
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Buscando ayuda de artistas en diseño.
 - 📫 How to reach me ... androangel@hotmail.es
 
 <!---
